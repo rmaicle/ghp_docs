@@ -1,0 +1,4 @@
+[submodule "git_manual"]
+	path = git_manual
+	url = https://github.com/rmaicle/ghp_docs_git_manual.git
+	branch = master
